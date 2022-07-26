@@ -1,0 +1,65 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .mat-toolbar{
+    display: flex;
+    justify-content: flex-end;
+    background-color: white;
+    
+  }
+
+  .endorseAddBtn{
+    border-color: none;
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .endorseAddBtn:hover{
+    background-color: darkblue;
+  }
+
+
+  /* table */
+
+  .endorseTableContainer{
+    padding: 0 auto;
+    overflow-y: hidden;
+    margin: 0 50px;
+  }
+
+  .endorseCovSummTbl{
+    box-shadow: none;
+    table-layout: fixed;
+    width: 100%;
+  }
+
+  table{
+    width: 100%;
+  }
+
+  .mat-header-cell{
+    text-align: center;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+  }
+
+  .mat-cell{
+    font-family: 'Poppins', sans-serif;
+    font-size: 11px;
+  }
+
+  .endorseTableTitle{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    border-top: solid 1px blue;
+    border-bottom: solid 1px blue;
+    padding: 10px;
+    width: 91.2%;
+    font-weight: bold;
+    align-items: center;
+    padding: 0 auto;
+
+    margin: 0 50px;
+  }

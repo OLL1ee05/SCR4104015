@@ -1,0 +1,108 @@
+{
+  "AppCovReducValInvListSCR4104015": [
+    {
+      "endorseInvnoFld": "1016901",
+      "endorseCovFLd": "M&A",
+      "endorseReducInvnoFld": "one",
+      "endorseReducCovFld": "one",
+      "endorseReducCovAmtFld": 31231,
+      "endorseReducPremAmtFld": 123,
+      "endorseReducCommFld": 31231,
+      "endorseRemFld": "shfjshdgksjh",
+      "id": 1
+    },
+    {
+      "endorseInvnoFld": "1016903",
+      "endorseCovFLd": "M&A",
+      "endorseReducInvnoFld": "two",
+      "endorseReducCovFld": "one",
+      "endorseReducCovAmtFld": 123123,
+      "endorseReducPremAmtFld": 23123,
+      "endorseReducCommFld": 123123,
+      "endorseRemFld": "efwsfegfsdgsg",
+      "id": 2
+    },
+    {
+      "endorseInvnoFld": "1016902",
+      "endorseCovFLd": "M&A",
+      "endorseCovDescFld": "eqweqwe",
+      "endorseCovAmtFld": 1231231,
+      "endorsePremAmtFld": 3123123,
+      "endorseCommFld": 1231,
+      "endorsePremRateFld": 13113,
+      "endorseCommRateFld": 12312,
+      "endorseReducCovAmtFld": 231,
+      "endorseReducPremAmtFld": 1231,
+      "endorseReducCommFld": 1231,
+      "endorseNetCovAmtFld": 231231,
+      "endorseNetPremAmtFld": 123123,
+      "endorseNetCommFld": 2312,
+      "endorseRemFld": "sdasfasfa",
+      "id": 3
+    },
+    {
+      "endorseInvnoFld": "1016901",
+      "endorseCovFLd": "M&A",
+      "endorseCovDescFld": "weqweqewqeqweqweqwe",
+      "endorseCovAmtFld": 3453453,
+      "endorsePremAmtFld": 345345345,
+      "endorseCommFld": 3534534534,
+      "endorsePremRateFld": 45345,
+      "endorseCommRateFld": 34534,
+      "endorseReducCovAmtFld": 3123123,
+      "endorseReducPremAmtFld": 1231232,
+      "endorseReducCommFld": 213123,
+      "endorseNetCovAmtFld": 78978978,
+      "endorseNetPremAmtFld": 8978979,
+      "endorseNetCommFld": 78987897897,
+      "endorseRemFld": "sgfsdfdfhfgh",
+      "id": 4
+    },
+    {
+      "endorseInvnoFld": "1016901",
+      "endorseCovFld": "M&A",
+      "endorseCovDescFld": "sdgvdgfdfgdfg",
+      "endorseCovAmtFld": 1231231,
+      "endorsePremAmtFld": 123123,
+      "endorseCommFld": 4312312,
+      "endorsePremRateFld": 131231,
+      "endorseCommRateFld": 23123,
+      "endorseReducCovAmtFld": 31231232,
+      "endorseReducPremAmtFld": 1231232,
+      "endorseReducCommFld": 1321312,
+      "endorseNetCovAmtFld": 3123123,
+      "endorseNetPremAmtFld": 123123,
+      "endorseNetCommFld": 3131231,
+      "endorseRemFld": "dsgsgsgerg",
+      "id": 5
+    },
+    {
+      "endorseInvnoFld": "1016901",
+      "endorseCovFld": "M&A",
+      "endorseCovDescFld": "zxcvbnm",
+      "endorseCovAmtFld": 11110,
+      "endorsePremAmtFld": 11110,
+      "endorseCommFld": 11110,
+      "endorsePremRateFld": 111.11,
+      "endorseCommRateFld": 111.11,
+      "endorseReducCovAmtFld": 110,
+      "endorseReducPremAmtFld": 110,
+      "endorseReducCommFld": 110,
+      "endorseNetCovAmtFld": 10,
+      "endorseNetPremAmtFld": 11.11,
+      "endorseNetCommFld": 110,
+      "endorseRemFld": "asdfghjkl",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
